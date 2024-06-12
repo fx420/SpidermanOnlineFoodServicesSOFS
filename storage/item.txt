@@ -1,0 +1,6 @@
+FD01,Ham and Egg,Breakfast,20.0
+FD02,Bacon,Breakfast,10.0
+FD03,Tuna Salad,Lunch,15.0
+FD04,Beef Barbecue,Lunch,20.0
+FD05,Pork Barbecue,Dinner,10.0
+FD06,Pork Barbecue,Dinner,20.0

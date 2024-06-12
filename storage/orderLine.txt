@@ -1,0 +1,8 @@
+1,Ham and Egg,1,20.0
+2,Bacon,2,20.0
+3,Bacon,2,20.0
+4,Bacon,2,20.0
+5,Bacon,2,20.0
+5,Tuna Salad,2,30.0
+6,Ham and Egg,3,60.0
+6,Bacon,3,30.0

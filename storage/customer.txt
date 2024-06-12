@@ -1,0 +1,6 @@
+C01,customer,customer,customer@mail.com,0123456789,Kuala Lumpur,customer
+C02,customer02,customer02,customer02@mail.com,0123456789,Kuala Lumpur,customer02
+C03,customer03,customer03,customer03@mail.com,0123456789,Kuala Lumpur,customer03
+C04,customer04,customer04,customer04@mail.com,0123456789,KL,customer04
+C05,customer05,customer05,customer05@mail.com,0123456789,KL,customer05
+C05,customer05,customer05,customer05@mail.com,KL,0123456789,customer05
